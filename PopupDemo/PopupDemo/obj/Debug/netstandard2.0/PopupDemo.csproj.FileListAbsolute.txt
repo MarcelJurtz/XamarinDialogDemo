@@ -1,0 +1,26 @@
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.deps.json
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.dll
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.csprojAssemblyReference.cache
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.csproj.CoreCompileInputs.cache
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.AssemblyInfoInputs.cache
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.AssemblyInfo.cs
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\Dialog.xaml.g.cs
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.dll
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.pdb
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.pdb
+C:\Users\superuser\Documents\Visual Studio 2017\Projects\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.deps.json
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.dll
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\bin\Debug\netstandard2.0\PopupDemo.pdb
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\Dialog.xaml.g.cs
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.csproj.CoreCompileInputs.cache
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.AssemblyInfoInputs.cache
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.AssemblyInfo.cs
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.dll
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.pdb
+C:\projects\Xamarin\PopupDemo\PopupDemo\PopupDemo\obj\Debug\netstandard2.0\PopupDemo.csprojAssemblyReference.cache
